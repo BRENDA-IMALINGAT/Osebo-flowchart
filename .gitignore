@@ -1,0 +1,11 @@
+node_modules/
+guidelines/
+dist/
+.env
+.vscode/
+.DS_Store
+coverage/
+.idea/
+Attributions.md/
+Guidelines.md/
+*.log
